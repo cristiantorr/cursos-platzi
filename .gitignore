@@ -1,0 +1,7 @@
+vendor/
+wp-config.php
+node_modules/
+uploads/
+*.DS_Store
+.DS_Store
+PLATZI-REU.mp4

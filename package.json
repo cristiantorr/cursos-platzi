@@ -1,0 +1,19 @@
+{
+  "name": "platzi",
+  "version": "1.0.0",
+  "description": "Cursos javascript platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiantorr/cursos-platzi.git"
+  },
+  "author": "Cristian torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristiantorr/cursos-platzi/issues"
+  },
+  "homepage": "https://github.com/cristiantorr/cursos-platzi#readme"
+}
