@@ -1,6 +1,6 @@
 const somethingWillHappen = (condition) => {
   return new Promise((resolve, reject) =>
-    condition ? resolve('Nice Vim bro.') : reject('F.')
+    condition ? resolve('Excelente pasa.') : reject('Fall la promesa')
   );
 };
 

@@ -1,0 +1,8 @@
+Para ejecutar la API solo seleccionamos la url y ejecutamos con  Ctrl+Alt+R
+
+extensión Rest Client
+###
+
+GET https://rickandmortyapi.com/api/location/1;
+
+

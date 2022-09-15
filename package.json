@@ -3,8 +3,19 @@
   "version": "1.0.0",
   "description": "Cursos javascript platzi",
   "main": "index.js",
+  "type": "module",
+
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callbacksCalc"       : "node curso-asincronismo-2019/callbacks/calc.js",
+    "callbacksDate"       : "node curso-asincronismo-2019/callbacks/dates.js",
+    "promisesOne"         : "node curso-asincronismo-2019/promises/promisesOne.js",
+    "promisesTwo"         : "node curso-asincronismo-2019/promises/promisesTwo.js",
+    "promisesAll"         : "node curso-asincronismo-2019/promises/promisesAll.js",
+    "promises:challenge"  : "node curso-asincronismo-2019/promises/challenge.js",
+    "async"               : "node curso-asincronismo-2019/async/index.js",
+    "async:challenge"     : "node curso-asincronismo-2019/async/challenge.js"
+
+
   },
   "repository": {
     "type": "git",
@@ -15,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/cristiantorr/cursos-platzi/issues"
   },
-  "homepage": "https://github.com/cristiantorr/cursos-platzi#readme"
+  "homepage": "https://github.com/cristiantorr/cursos-platzi#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }

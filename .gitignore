@@ -5,3 +5,5 @@ uploads/
 *.DS_Store
 .DS_Store
 PLATZI-REU.mp4
+diplomas/
+package-lock.json

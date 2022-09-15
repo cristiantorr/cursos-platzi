@@ -1,5 +1,6 @@
 import { XMLHttpRequest } from 'xmlhttprequest';
 
+
 const API = 'https://rickandmortyapi.com/api/character/';
 
 const fetchData = (apiURL, callback) => {
